@@ -19,4 +19,4 @@ Functional Highlights:
 
 5. Performance: The runtime of the program depends exponentially on n, as all possible functions are generated and verified. Computational resources provided by Python's runtime environment are critical.
 
-The second Python implementation replace GCD with MAX operation. One should remarks that Gcd and max play symetric function.
+For the second Python implementation, MAX replaces the gcd operation. One should notice that GCD and MAX play symetric functions.
